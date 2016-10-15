@@ -1,0 +1,385 @@
+Super lemma,PoS,Count,Percent,Lemma(ta),Word form(s),Dubium,Disambiguation status
+episcopus,Noun,30,3.409,episcopus(30),episcopi(6) episcopis(1) episcopo(7) episcoporum(3) episcopos(5) episcopum(2) episcopus(6),,green
+deus,Noun,24,2.727,deus(24),dei(22) deo(1) deum(1),,green
+omnis,Adjective,15,1.705,omnis(15),omne(1) omnes(8) omni(1) omnia(2) omnibus(2) omnis(1),,green
+presbyter,Noun,14,1.591,presbiter(10) presbyter(4),presbiter(3) presbiteri(1) presbiteris(3) presbiteros(2) presbiterum(1) presbyter(1) presbyteri(3),,green
+suus,Pronoun,14,1.591,suus(14),sua(7) suam(1) sui(2) suis(1) suo(2) suos(1),,green
+ecclesia,Noun,13,1.477,aecclesia(3) ecclesia(10),aecclesia(1) aecclesiae(2) ecclesia(2) ecclesiae(2) ecclesiam(2) ecclesiarum(2) ecclesias(1) ecclesiis(1),,green
+populus,Noun,12,1.364,populus(12),populi(3) populo(1) populos(1) populum(1) populus(6),,green
+facio,Verb,11,1.25,facio(11),facere(1) faciant(4) faciat(3) faciunt(1) fecerit(1) fecimus(1),,green
+princeps,Noun,9,1.023,princeps(9),princeps(4) principe(1) principem(1) principis(1) principum(2),,green
+sacerdos,Noun,9,1.023,sacerdos(9),sacerdotes(3) sacerdotibus(1) sacerdotis(1) sacerdotum(4),,green
+servus,Noun,9,1.023,servus(9),servis(3) servorum(6),,green
+similiter,Adverb,9,1.023,similiter(9),similiter(9),,green
+constituo,Verb,9,1.023,constituo(9),constituemus(3) constituerunt(3) constituimus(3),,green
+parochia,Noun,9,1.023,parrochia(9),parrochia(8) parrochiam(1),,green
+synodus,Noun,8,0.909,synodus(8),synodis(1) synodo(1) synodum(4) synodus(2),,green
+ProperName,Proper Name,8,0.909,ProperName(8),ardobertum(1) dadanum(1) eddanum(1) helmigaudo(1) liftinas(1) radobodo(1) wilbaldum(1) wintanum(1),,green
+decerno,Verb,8,0.909,decerno(8),decrevimus(8),,green
+annus,Noun,8,0.909,annus(8),annis(2) anno(3) annos(2) annum(1),,green
+consilium,Noun,8,0.909,consilium(8),consilio(6) consilium(2),,green
+ecclesiasticus,Adjective,7,0.795,aecclesiasticus(2) ecclesiasticus(5),aecclesiastica(1) aecclesiastici(1) ecclesiastica(3) ecclesiasticis(1) ecclesiasticum(1),,green
+ministerium,Noun,6,0.682,ministerium(6),ministerii(2) ministerio(2) ministerium(2),,green
+monachus,Noun,6,0.682,monachus(6),monachi(4) monachorum(1) monachus(1),,green
+mulier,Noun,6,0.682,mulier(6),mulier(2) muliere(1) mulierem(3),,green
+ordo,Noun,6,0.682,ordo(6),ordine(2) ordinem(2) ordinis(1) ordo(1),,green
+pecunia,Noun,6,0.682,pecunia(6),pecunia(3) pecuniae(1) pecunias(1) pecuniis(1),,green
+christianus,Adjective,6,0.682,christianus(6),christiana(2) christiani(1) christianus(3),,green
+meus,Pronoun,6,0.682,meus(6),meo(1) meorum(4) meus(1),,green
+sanctus,Adjective,6,0.682,sanctus(6),sancta(2) sancti(3) sanctorum(1),,green
+Christus,Personal Name,6,0.682,Christus(6),christi(6),,green
+habeo,Verb,6,0.682,habeo(6),habeant(1) habeat(4) habetur(1),,green
+clericus,Noun,6,0.682,clericus(6),clerici(1) clericis(1) clericos(2) clericus(2),,green
+fornicatio,Noun,5,0.568,fornicatio(5),fornicationem(1) fornicationis(4),,green
+homo,Noun,5,0.568,homo(5),homines(2) hominibus(1) hominis(1) homo(1),,green
+necessitas,Noun,5,0.568,necessitas(5),necessitas(1) necessitate(2) necessitati(1) necessitatis(1),,green
+nomen,Noun,5,0.568,nomen(5),nomine(5),,green
+paenitentia,Noun,5,0.568,paenitencia(1) poenitentia(4),paenitenciam(1) poenitenciam(1) poenitentiam(3),,green
+reddo,Verb,5,0.568,reddo(5),reddat(2) reddatur(2) reddidimus(1),,green
+statuo,Verb,5,0.568,statuo(5),statuemus(1) statuimus(4),,green
+canon,Noun,5,0.568,canon(5),canones(3) canonum(2),,green
+legitimus,Noun,4,0.455,legitimus(4),legitimi(2) legitimos(1) legitimus(1),,green
+lex,Noun,4,0.455,lex(4),lege(1) legem(1) lex(2),,green
+optimas,Noun,4,0.455,optimas(4),optimatum(4),,green
+regula,Noun,4,0.455,regula(4),regula(2) regulam(2),,green
+signum,Noun,4,0.455,signum(4),signum(4),,green
+canonicus,Adjective,4,0.455,canonicus(4),canonicam(1) canonicas(1) canonico(2),,green
+Francus,Adjective,4,0.455,Francus(4),francorum(4),,green
+alius,Pronoun,4,0.455,alius(4),aliis(2) aliorum(1) alium(1),,green
+noster,Pronoun,4,0.455,noster(4),nostra(1) nostri(2) nostro(1),,green
+habito,Verb,4,0.455,habito(4),habitans(1) habitare(1) habitet(2),,green
+ordino,Verb,4,0.455,ordino(4),ordinare(1) ordinatus(1) ordinavimus(2),,green
+porto,Verb,4,0.455,porto(4),portanda(1) portare(1) portent(2),,green
+ancilla,Noun,4,0.455,ancilla(4),ancillae(1) ancillarum(2) ancillas(1),,green
+suscipio,Verb,4,0.455,suscipio(4),suscipiantur(1) suscipiendum(2) suscipientes(1),,green
+vivo,Verb,4,0.455,vivo(4),vivant(1) vivente(1) viventem(1) vivere(1),,green
+civitas,Noun,4,0.455,civitas(4),civitas(1) civitates(2) civitatis(1),,green
+consensus,Noun,4,0.455,consensus(4),consensu(4),,green
+domus,Noun,4,0.455,domus(4),domo(1) domu(1) domui(1) domus(1),,green
+Adlabertus,Personal Name,3,0.341,Adlabertus(3),adlaberto(1) adlabertum(1) adlabertus(1),,green
+fides,Noun,3,0.341,fides(3),fide(2) fidei(1),,green
+iudicium,Noun,3,0.341,iudicium(3),iudicia(1) iudicio(1) iudicium(1),,green
+ius,Noun,3,0.341,ius(3),iura(2) iure(1),,green
+monasterium,Noun,3,0.341,monasterium(3),monasteria(2) monasterium(1),,green
+paganus,Noun,3,0.341,paganus(3),paganis(1) paganorum(1) paganus(1),,green
+pater,Noun,3,0.341,pater(3),pater(1) patris(1) patrum(1),,green
+precarium,Noun,3,0.341,precarium(3),precario(2) precarium(1),,green
+sanctus,Noun,3,0.341,sanctus(3),sanctorum(2) sanctos(1),,green
+vita,Noun,3,0.341,vita(3),vitae(2) vitam(1),,green
+qualiter,Adverb,3,0.341,qualiter(3),qualiter(3),,green
+prior,Adjective,3,0.341,prior(3),prioris(2) priorum(1),,green
+singulus,Adjective,3,0.341,singulus(3),singulis(2) singulos(1),,green
+cado,Verb,3,0.341,cado(2) caso(1),ceciderit(1) ceciderunt(1) casata(1),,green
+cogo,Verb,3,0.341,cogo(3),coegimus(1) cogat(2),,green
+confirmo,Verb,3,0.341,confirmo(3),confirmandos(1) confirmandum(1) confirmari(1),,green
+debeo,Verb,3,0.341,debeo(3),debeamus(1) debet(2),,green
+Kalendae,Proper Name,3,0.341,Kalendae(3),kalendas(3),,green
+dico,Verb,3,0.341,dico(3),dicant(1) dicitur(1) diximus(1),,green
+Pippinus,Personal Name,3,0.341,Pippinus(3),pippino(2) pippinus(1),,green
+observo,Verb,3,0.341,observo(3),observare(1) observavimus(1) observetur(1),,green
+praecipio,Verb,3,0.341,praecipio(3),praecipiebat(1) praecipimus(2),,green
+prohibeo,Verb,3,0.341,prohibeo(3),prohibeant(1) prohibeantur(1) prohibuimus(1),,green
+abbas,Noun,3,0.341,abbas(3),abbates(1) abbati(2),,green
+recupero,Verb,3,0.341,recupero(3),recuperare(1) recuperetur(2),,green
+adiutorium,Noun,3,0.341,adiutorium(3),adiutorio(1) adiutorium(2),,green
+archiepiscopus,Noun,3,0.341,archiepiscopus(3),archiepiscopum(2) archiepiscopus(1),,green
+carcer,Noun,3,0.341,carcer(3),carcere(2) carcerem(1),,green
+comes,Noun,3,0.341,comes(3),comites(1) comitibus(2),,green
+concilium,Noun,3,0.341,concilium(3),concilio(2) concilium(1),,green
+decretum,Noun,3,0.341,decretum(3),decreta(3),,green
+diaconus,Noun,3,0.341,diaconus(3),diaconi(2) diaconos(1),,green
+dies,Noun,3,0.341,dies(3),die(1) diebus(2),,green
+dominus,Noun,3,0.341,dominus(3),domini(3),,green
+exercitus,Noun,2,0.227,exercitus(2),exercitum(1) exercitus(1),,green
+falsus,Noun,2,0.227,falsus(2),falsos(2),,green
+fornicator,Noun,2,0.227,fornicator(2),fornicatores(2),,green
+haeresis,Noun,2,0.227,haeresis(2),haeresim(1) haeresis(1),,green
+ignis,Noun,2,0.227,ignis(2),igne(1) ignes(1),,green
+incarnatio,Noun,2,0.227,incarnatio(2),incarnatione(2),,green
+laicus,Noun,2,0.227,laicus(2),laicorum(2),,green
+locus,Noun,2,0.227,locum(1) locus(1),loca(1) loco(1),,green
+missa,Noun,2,0.227,missa(2),missarum(2),,green
+modus,Noun,2,0.227,modus(2),modo(2),,green
+mos,Noun,2,0.227,mos(2),more(1) moribus(1),,green
+nonna,Noun,2,0.227,nonna(2),nonnae(2),,green
+observatio,Noun,2,0.227,observatio(2),observationes(2),,green
+paupertas,Noun,2,0.227,paupertas(2),paupertas(1) paupertatem(1),,green
+peccatum,Noun,2,0.227,peccatum(2),peccata(1) peccatum(1),,green
+praefectus,Noun,2,0.227,praefectus(2),praefecti(1) praefectus(1),,green
+ratio,Noun,2,0.227,ratio(2),rationem(2),,green
+regio,Noun,2,0.227,regio(2),regione(1) regionibus(1),,green
+religio,Noun,2,0.227,relegio(2),relegio(2),,green
+res,Noun,2,0.227,res(2),re(1) rebus(1),,green
+ritus,Noun,2,0.227,ritus(2),ritu(2),,green
+saeculum,Noun,2,0.227,seculum(2),secula(1) seculorum(1),,green
+salus,Noun,2,0.227,salus(2),salutem(2),,green
+solidus,Noun,2,0.227,solidus(2),solidis(1) solidus(1),,green
+sollicitudo,Noun,2,0.227,sollicitudo(2),sollicitudinem(2),,green
+tempus,Noun,2,0.227,tempus(2),tempore(1) temporis(1),,green
+unus,Noun,2,0.227,unus(2),unum(2),,green
+venatio,Noun,2,0.227,venatio(2),venationes(2),,green
+vir,Noun,2,0.227,vir(2),vir(1) viro(1),,green
+Maius,Adjective,2,0.227,Maius(2),maias(2),,green
+catholicus,Adjective,2,0.227,catholicus(2),catholica(2),,green
+ita,Adverb,2,0.227,ita(2),ita(2),,green
+falsus,Adjective,2,0.227,falsus(2),falsi(1) falsus(1),,green
+optimates,Noun,2,0.227,obtimates(2),obtimatibus(2),,green
+dissipatus,Adjective,2,0.227,dissipatus(2),dissipata(2),,green
+septingentesimus,Adjective,2,0.227,septingentesimus(2),septingentesimo(2),,green
+synodalis,Adjective,2,0.227,synodalis(2),synodalem(1) synodali(1),,green
+NON_LATIN,Foreign Material,2,0.227,NON_LATIN(2),fyr(1) nied(1),,green
+laicus,Adjective,2,0.227,laicus(2),laici(1) laicus(1),,green
+novus,Adjective,2,0.227,novus(2),novum(2),,green
+paganus,Adjective,2,0.227,paganus(2),paganas(1) pagano(1),,green
+paratus,Adjective,2,0.227,paratus(2),parata(1) paratus(1),,green
+proprius,Adjective,2,0.227,proprius(2),propria(1) propriam(1),,green
+Benedictus,Personal Name,2,0.227,Benedictus(2),benedicti(2),,green
+Bonifatius,Personal Name,2,0.227,Bonifatius(2),bonifatium(2),,green
+accipio,Verb,2,0.227,accipio(2),accipiat(2),,green
+circumeo,Verb,2,0.227,circumeo(2),circumeat(2),,green
+condemno,Verb,2,0.227,condemno(1) condempno(1),condemnaverunt(1) condempnaverunt(1),,green
+congrego,Verb,2,0.227,congrego(2),congregare(1) congregavi(1),,green
+consentio,Verb,2,0.227,consentio(2),consentiant(1) consentientes(1),,green
+corruo,Verb,2,0.227,corruo(2),corruit(2),,green
+emendo,Verb,2,0.227,emendo(2),emendentur(1) emendetur(1),,green
+invenio,Verb,2,0.227,invenio(2),invenimus(1) invenire(1),,green
+iudico,Verb,2,0.227,iudico(2),iudicare(1) iudicatus(1),,green
+pereo,Verb,2,0.227,pereo(2),pereat(2),,green
+permaneo,Verb,2,0.227,permaneo(2),permaneant(1) permaneat(1),,green
+pervenio,Verb,2,0.227,pervenio(2),pervenire(2),,green
+promitto,Verb,2,0.227,promitto(2),promiserunt(2),,green
+acceptor,Noun,2,0.227,acceptor(2),acceptores(2),,green
+renovo,Verb,2,0.227,renovo(2),renovare(1) renovetur(1),,green
+restauro,Verb,2,0.227,restauro(2),restaurandam(1) restaurentur(1),,green
+adulter,Noun,2,0.227,adulter(2),adulteros(2),,green
+adulterium,Noun,2,0.227,adulterium(2),adulteria(1) adulterii(1),,green
+amplius,Noun,2,0.227,amplius(2),amplius(2),,green
+anima,Noun,2,0.227,anima(2),animae(1) animarum(1),,green
+supervenio,Verb,2,0.227,supervenio(2),supervenientes(2),,green
+canis,Noun,2,0.227,canis(2),canibus(1) canis(1),,green
+census,Noun,2,0.227,census(2),censu(1) census(1),,green
+chrisma,Noun,2,0.227,crisma(2),crisma(2),,green
+crimen,Noun,2,0.227,crimen(2),crimen(2),,green
+divinus,Noun,2,0.227,divinus(2),divinos(1) divinum(1),,green
+doctrina,Noun,2,0.227,doctrina(2),doctrinae(1) doctrinis(1),,green
+dux,Noun,2,0.227,dux(2),dux(2),,green
+femina,Noun,1,0.114,femina(1),femina(1),,green
+forus,Noun,1,0.114,forus(1),forus(1),,green
+gens,Noun,1,0.114,gens(1),gentium(1),,green
+gentilitas,Noun,1,0.114,gentilitas(1),gentilitatis(1),,green
+hostia,Noun,1,0.114,hostia(1),hostias(1),,green
+hostis,Noun,1,0.114,hostis(1),hostem(1),,green
+ignotus,Noun,1,0.114,ignotus(1),ignotos(1),,green
+incantatio,Noun,1,0.114,incantatio(1),incantationes(1),,green
+incognitus,Noun,1,0.114,incognitus(1),incognitum(1),,green
+indulgentia,Noun,1,0.114,indulgentia(1),indulgentia(1),,green
+iracundia,Noun,1,0.114,iracundia(1),iracundiam(1),,green
+luna,Noun,1,0.114,luna(1),luna(1),,green
+maior,Noun,1,0.114,maior(1),maiorum(1),,green
+mancipium,Noun,1,0.114,mancipium(1),mancipia(1),,green
+maritus,Noun,1,0.114,maritus(1),marito(1),,green
+martyr,Noun,1,0.114,martyr(1),martyrum(1),,green
+mater,Noun,1,0.114,mater(1),matrem(1),,green
+matrimonium,Noun,1,0.114,matrimonium(1),matrimonia(1),,green
+mensura,Noun,1,0.114,mensura(1),mensuras(1),,green
+misericordia,Noun,1,0.114,misericordia(1),misericordia(1),,green
+missus,Noun,1,0.114,missus(1),missus(1),,green
+mortuus,Noun,1,0.114,mortuus(1),mortuorum(1),,green
+norma,Noun,1,0.114,norma(1),normam(1),,green
+nupta,Noun,1,0.114,nepta(1),nepta(1),,green
+oleum,Noun,1,0.114,oleum(1),oleo(1),,green
+ostes,Noun,1,0.114,ostes(1),ostem(1),,green
+panis,Noun,1,0.114,panis(1),pane(1),,green
+parens,Noun,1,0.114,parens(1),parentem(1),,green
+pars,Noun,1,0.114,pars(1),partem(1),,green
+patrocinium,Noun,1,0.114,patrocinium(1),patrocinia(1),,green
+penuria,Noun,1,0.114,penuria(1),penuriam(1),,green
+periurium,Noun,1,0.114,periuria(1),periurias(1),,green
+persecutio,Noun,1,0.114,persecutio(1),persecutiones(1),,green
+phylacterium,Noun,1,0.114,filacteria(1),filacteria(1),,green
+possessio,Noun,1,0.114,possessio(1),possessio(1),,green
+praesens,Noun,1,0.114,praesens(1),praesentibus(1),,green
+prex,Noun,1,0.114,prex(1),precibus(1),,green
+probatio,Noun,1,0.114,probatio(1),probationem(1),,green
+quadragesima,Noun,1,0.114,quadragesima(1),quadragesima(1),,green
+regnum,Noun,1,0.114,regnum(1),regno(1),,green
+rex,Noun,1,0.114,rex(1),regis(1),,green
+sacrificium,Noun,1,0.114,sacrificium(1),sacrificia(1),,green
+sagum,Noun,1,0.114,sagum(1),sagis(1),,green
+soror,Noun,1,0.114,soror(1),sororem(1),,green
+sortilegus,Noun,1,0.114,sortilegus(1),sortilegos(1),,green
+spurcitia,Noun,1,0.114,spurcitia(1),spurcitias(1),,green
+stultus,Noun,1,0.114,stultus(1),stulti(1),,green
+testimonium,Noun,1,0.114,testimonium(1),testimoniis(1),,green
+testis,Noun,1,0.114,testis(1),testis(1),,green
+timor,Noun,1,0.114,timor(1),timore(1),,green
+trinitas,Noun,1,0.114,trinitas(1),trinitatis(1),,green
+vagatio,Noun,1,0.114,vagatio(1),vagationes(1),,green
+verberatio,Noun,1,0.114,verberatio(1),verberationem(1),,green
+vox,Noun,1,0.114,vox(1),voce(1),,green
+Martius,Adjective,1,0.114,Martius(1),martias(1),,green
+antiquus,Adjective,1,0.114,antiquus(1),antiquorum(1),,green
+diligenter,Adverb,1,0.114,diligenter(1),diligenter(1),,green
+ceterus,Adjective,1,0.114,ceterus(1),ceterarum(1),,green
+iterum,Adverb,1,0.114,iterum(1),iterum(1),,green
+iure,Adverb,1,0.114,iure(1),iure(1),,green
+prius,Adverb,1,0.114,prius(1),prius(1),,green
+ecclesialis,Adjective,1,0.114,ecclesialis(1),ecclesialis(1),,green
+publice,Adverb,1,0.114,publicitus(1),publiciter(1),,green
+gravis,Adjective,1,0.114,gravis(1),gravione(1),,green
+subtrado,Verb,1,0.114,subtrado(1),subtraditis(1),,green
+Abel,Personal Name,1,0.114,Abel(1),abel(1),,green
+Iesus,Personal Name,1,0.114,Iesus(1),iesu(1),,green
+Nicaenus,Adjective,1,0.114,Nicaenus(1),nicaeno(1),,green
+Suessionis,Adjective,1,0.114,Suessionis(1),suessionis(1),,green
+commodatus,Adjective,1,0.114,commodatus(1),commodata(1),,green
+deceptus,Adjective,1,0.114,deceptus(1),deceptus(1),,green
+decretus,Adjective,1,0.114,decretus(1),decretam(1),,green
+deprehensus,Adjective,1,0.114,deprehensus(1),deprehensa(1),,green
+diversus,Adjective,1,0.114,diversus(1),diversis(1),,green
+fraudatus,Adjective,1,0.114,fraudatus(1),fraudatas(1),,green
+inluster,Adjective,1,0.114,inluster(1),inluster(1),,green
+lapsus,Adjective,1,0.114,lapsus(1),lapsus(1),,green
+immolaticius,Adjective,1,0.114,immolatitius(1),immolatitias(1),,green
+quadragesimus,Adjective,1,0.114,quadragesimus(1),quadragesimo(1),,green
+silvaticus,Adjective,1,0.114,silvaticus(1),silvaticas(1),,green
+revestio,Verb,1,0.114,revestio(1),revestita(1),,green
+tantum,Adverb,1,0.114,tantum(1),tantum(1),,green
+crucicula,Noun,1,0.114,crucicula(1),cruciculae(1),,green
+incestus,Adjective,1,0.114,incestus(1),incesta(1),,green
+integer,Adjective,1,0.114,integer(1),integra(1),,green
+legitimus,Adjective,1,0.114,legitimus(1),legitima(1),,green
+maritus,Adjective,1,0.114,maritus(1),maritus(1),,green
+monasterialis,Adjective,1,0.114,monasterialis(1),monasteriales(1),,green
+multus,Adjective,1,0.114,multus(1),multi(1),,green
+plus,Adjective,1,0.114,plus(1),plures(1),,green
+praeteritus,Adjective,1,0.114,praeteritus(1),praeteritorum(1),,green
+regularis,Adjective,1,0.114,regularis(1),regularis(1),,green
+sacrilegus,Adjective,1,0.114,sacrilegus(1),sacrilegos(1),,green
+scriptus,Adjective,1,0.114,scriptus(1),scriptum(1),,green
+secundus,Adjective,1,0.114,secundus(1),secundo(1),,green
+Aribertus,Personal Name,1,0.114,Aribertus(1),ariberto(1),,green
+sollemnis,Adjective,1,0.114,solemnis(1),solemnia(1),,green
+stabilis,Adjective,1,0.114,stabilis(1),stabiles(1),,green
+subiectus,Adjective,1,0.114,subiectus(1),subiectus(1),,green
+universus,Adjective,1,0.114,universus(1),universa(1),,green
+venerabilis,Adjective,1,0.114,venerabilis(1),venerabiles(1),,green
+paganiae,Noun,1,0.114,pagania(1),paganias(1),,green
+abicio,Verb,1,0.114,abicio(1),abiciat(1),,green
+Burghardus,Personal Name,1,0.114,Burghardus(1),burghardum(1),,green
+adaugeo,Verb,1,0.114,adaugeo(1),adaugeat(1),,green
+adhibeo,Verb,1,0.114,adhibeo(1),adhibeat(1),,green
+adimpleo,Verb,1,0.114,adinpleo(1),adinplenda(1),,green
+adiuvo,Verb,1,0.114,adiuvo(1),adiuvante(1),,green
+admitto,Verb,1,0.114,admitto(1),admitteremus(1),,green
+Childericus,Personal Name,1,0.114,Childericus(1),childerici(1),,green
+ago,Verb,1,0.114,ago(1),agat(1),,green
+apto,Verb,1,0.114,apto(1),aptemus(1),,green
+assisto,Verb,1,0.114,adsisto(1),adsistat(1),,green
+aufero,Verb,1,0.114,aufero(1),abstulimus(1),,green
+Franci,Proper Name,1,0.114,Franci(1),francorum(1),,green
+coinquino,Verb,1,0.114,coinquino(1),coinquinaverunt(1),,green
+colloquor,Verb,1,0.114,conloquor(1),conloqui(1),,green
+compono,Verb,1,0.114,compono(1),componat(1),,green
+confiteor,Verb,1,0.114,confiteor(1),confitentibus(1),,green
+conservo,Verb,1,0.114,conservo(1),conservent(1),,green
+consolor,Verb,1,0.114,consolor(1),consolentur(1),,green
+consumo,Verb,1,0.114,consumo(1),consumantur(1),,green
+contineo,Verb,1,0.114,conteneo(1),conteneantur(1),,green
+damno,Verb,1,0.114,damno(1),damnetur(1),,green
+degrado,Verb,1,0.114,degrado(1),degradavimus(1),,green
+denuntio,Verb,1,0.114,denuntio(1),denuntiaretur(1),,green
+Karlmannus,Personal Name,1,0.114,Karlmannus(1),karlmannus(1),,green
+indico,Verb,1,0.114,indico(1),indicare(1),,green
+excepto,Adverb,1,0.114,excepto(1),excepto(1),,green
+dimitto,Verb,1,0.114,dimitto(1),dimittere(1),,green
+dispicio,Verb,1,0.114,dispicio(1),dispexerint(1),,green
+falconis,Noun,1,0.114,walconis(1),walcones(1),,green
+do,Verb,1,0.114,do(1),dedissent(1),,green
+superius,Adverb,1,0.114,superius(1),superius(1),,green
+eligo,Verb,1,0.114,eligo(1),electi(1),,green
+Martius,Personal Name,1,0.114,Martius(1),martii(1),,green
+Nona,Personal Name,1,0.114,Nona(1),nonas(1),,green
+iudicia,Noun,1,0.114,iudicia(1),iudicias(1),,green
+scortico,Verb,1,0.114,scortico(1),scorticatus(1),,green
+fio,Verb,1,0.114,fio(1),fiant(1),,green
+firmo,Verb,1,0.114,firmo(1),firmaverunt(1),,green
+flagello,Verb,1,0.114,flagello(1),flagellatus(1),,green
+Petrus,Personal Name,1,0.114,Petrus(1),petri(1),,green
+guberno,Verb,1,0.114,guberno(1),gubernare(1),,green
+immineo,Verb,1,0.114,inmineo(1),inminentia(1),,green
+impleo,Verb,1,0.114,impleo(1),implere(1),,green
+Regenfridus,Personal Name,1,0.114,Regenfridus(1),regenfridum(1),,green
+interdico,Verb,1,0.114,interdico(1),interdiximus(1),,green
+irrumpo,Verb,1,0.114,irrumpo(1),irrumpere(1),,green
+iubeo,Verb,1,0.114,iubeo(1),iubeat(1),,green
+levo,Verb,1,0.114,levo(1),levetur(1),,green
+mitto,Verb,1,0.114,mitto(1),missus(1),,green
+morior,Verb,1,0.114,morior(1),moriatur(1),,green
+multo,Verb,1,0.114,multo(1),multetur(1),,green
+oboedio,Verb,1,0.114,obedio(1),obediens(1),,green
+ostendo,Verb,1,0.114,ostendo(1),ostendat(1),,green
+paeniteo,Verb,1,0.114,peniteo(1),penitencia(1),,green
+patior,Verb,1,0.114,patior(1),patiantur(1),,green
+pergo,Verb,1,0.114,pergo(1),pergere(1),,green
+permitto,Verb,1,0.114,permitto(1),permittat(1),,green
+peto,Verb,1,0.114,peto(1),petat(1),,green
+planto,Verb,1,0.114,planto(1),plantaverat(1),,green
+praesto,Verb,1,0.114,praesto(1),praestita(1),,green
+probo,Verb,1,0.114,probo(1),probati(1),,green
+abitus,Noun,1,0.114,abitus(1),abitu(1),,green
+provoco,Verb,1,0.114,provoco(1),provocantes(1),,green
+pugno,Verb,1,0.114,pugno(1),pugnare(1),,green
+abundantia,Noun,1,0.114,habundantia(1),habundantia(1),,green
+quaero,Verb,1,0.114,quaero(1),quaerat(1),,green
+rado,Verb,1,0.114,rado(1),radantur(1),,green
+recipio,Verb,1,0.114,recipio(1),receperunt(1),,green
+recurro,Verb,1,0.114,recurro(1),recurrant(1),,green
+redigo,Verb,1,0.114,redigo(1),redigere(1),,green
+rescribo,Verb,1,0.114,rescribo(1),rescribatur(1),,green
+respuo,Verb,1,0.114,respuo(1),respuat(1),,green
+restituo,Verb,1,0.114,restituo(1),restituimus(1),,green
+resurgo,Verb,1,0.114,resurgo(1),resurgat(1),,green
+retineo,Verb,1,0.114,retineo(1),retineamus(1),,green
+sacro,Verb,1,0.114,sacro(1),sacrata(1),,green
+satisfacio,Verb,1,0.114,satisfacio(1),satisfaciant(1),,green
+scribo,Verb,1,0.114,scribo(1),scriptum(1),,green
+condicio,Noun,1,0.114,conditio(1),conditione(1),,green
+studeo,Verb,1,0.114,studeo(1),studeant(1),,green
+subicio,Verb,1,0.114,subicio(1),subiectus(1),,green
+supero,Verb,1,0.114,supero(1),superaverit(1),,green
+aqua,Noun,1,0.114,aqua(1),aqua(1),,green
+sustineo,Verb,1,0.114,sustineo(1),sustineant(1),,green
+teneo,Verb,1,0.114,teneo(1),tenentes(1),,green
+tollo,Verb,1,0.114,tollo(1),tollere(1),,green
+armatura,Noun,1,0.114,armatura(1),armaturam(1),,green
+trado,Verb,1,0.114,trado(1),tradantur(1),,green
+transgredior,Verb,1,0.114,transgredior(1),transgredire(1),,green
+transmitto,Verb,1,0.114,transmitto(1),transmittant(1),,green
+utor,Verb,1,0.114,utor(1),utantur(1),,green
+velo,Verb,1,0.114,velo(1),velatae(1),,green
+augurium,Noun,1,0.114,augurium(1),auguria(1),,green
+verto,Verb,1,0.114,verto(1),vertentem(1),,green
+video,Verb,1,0.114,video(1),videatur(1),,green
+voco,Verb,1,0.114,voco(1),vocant(1),,green
+baptismus,Noun,1,0.114,baptismus(1),baptismo(1),,green
+bellum,Noun,1,0.114,bellum(1),bella(1),,green
+capellanus,Noun,1,0.114,capellanus(1),capellanis(1),,green
+capillus,Noun,1,0.114,capillus(1),capilli(1),,green
+caput,Noun,1,0.114,caput(1),capitis(1),,green
+castitas,Noun,1,0.114,castitas(1),castitatis(1),,green
+casula,Noun,1,0.114,casula(1),casulis(1),,green
+causa,Noun,1,0.114,causa(1),causa(1),,green
+cautela,Noun,1,0.114,cautela(1),cautelam(1),,green
+cena,Noun,1,0.114,cena(1),cena(1),,green
+circumitus,Noun,1,0.114,circuitus(1),circuitu(1),,green
+clerus,Noun,1,0.114,clerus(1),clerus(1),,green
+coena,Noun,1,0.114,coena(1),coena(1),,green
+collectio,Noun,1,0.114,collectio(1),collectione(1),,green
+confessor,Noun,1,0.114,confessor(1),confessorum(1),,green
+congregatus,Noun,1,0.114,congregatus(1),congregatus(1),,green
+conventus,Noun,1,0.114,conventus(1),conventu(1),,green
+deceptus,Noun,1,0.114,deceptus(1),deceptus(1),,green
+defensor,Noun,1,0.114,defensor(1),defensor(1),,green
+definitio,Noun,1,0.114,definitio(1),definitionem(1),,green
+denarius,Noun,1,0.114,denarius(1),denarii(1),,green
